@@ -6,8 +6,6 @@
 }
 
 
-
-
 @font-face {
     font-family: 'Boldonse';
     src: url("../webfonts/Boldonse-Regular.woff2") format("woff2");
@@ -18,12 +16,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-
-h1{
-    font-size: 5rem;
-    font-weight: bold;
 }
 
 
@@ -45,10 +37,7 @@ button:hover{
 .c-font{
     font-family: 'BeautifulPeople', sans-serif;
     font-size: 3rem;
-    
 }
-
-
 
 .main-font{
     font-family: 'Boldonse', sans-serif;
