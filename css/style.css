@@ -1,7 +1,16 @@
 
 @font-face {
-    font-family: 'BeautifulPeople', sans-serif;
-    src: url("../webfonts/BeautifulPeoplePersonalUse-dE0g.ttf") format("truetype");
+    font-family: 'BeautifulPeople';
+    src: url("../webfonts/BeautifulPeoplePersonalUse-dE0g.woff2") format("woff2");
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Boldonse';
+    src: url("../webfonts/Boldonse-Regular.woff2") format("woff2");
 
 }
 
@@ -35,4 +44,14 @@ button:hover{
 
 .c-font{
     font-family: 'BeautifulPeople', sans-serif;
+    font-size: 3rem;
+    
+}
+
+
+
+.main-font{
+    font-family: 'Boldonse', sans-serif;
+    font-size: 4rem;
+    
 }

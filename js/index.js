@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=UZqSpuUJPa0&themeRefresh=1
 
 /*
 
+
+
+
+
 // First solution
 
 var lastnum = -1;
@@ -120,6 +124,15 @@ And live like it's heaven on earth.”
 
 */
 
+
+
+
+
+
+
+
+
+
 /*
 // second solution
 
@@ -165,9 +178,15 @@ function quotef() {
 }
 */
 
+
+
+
+
+
+
+
+
 //third solution
-
-
 
 var quotes = [
   {
