@@ -1,10 +1,10 @@
-
+/* 
 @font-face {
     font-family: 'BeautifulPeople';
     src: url("../webfonts/BeautifulPeoplePersonalUse-dE0g.woff2") format("woff2");
 
 }
-
+ */
 
 @font-face {
     font-family: 'Boldonse';
@@ -34,10 +34,13 @@ button:hover{
 
 }
 
+
+/* 
 .c-font{
     font-family: 'BeautifulPeople', sans-serif;
     font-size: 3rem;
 }
+ */
 
 .main-font{
     font-family: 'Boldonse', sans-serif;
