@@ -19,7 +19,6 @@ button{
     height: 5rem;
     width: 13rem;
     background-color: blue;
-    color: white;
 }
 
 button:hover{
@@ -28,6 +27,3 @@ button:hover{
 }
 
 
-h2{
-    padding: 3rem;
-}
