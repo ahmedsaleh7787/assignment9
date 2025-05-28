@@ -1,3 +1,10 @@
+
+@font-face {
+    font-family: 'BeautifulPeople', sans-serif;
+    src: url("../webfonts/BeautifulPeoplePersonalUse-dE0g.ttf") format("truetype");
+
+}
+
 .center{
     display: flex;
     justify-content: center;
@@ -26,4 +33,6 @@ button:hover{
 
 }
 
-
+.c-font{
+    font-family: 'BeautifulPeople', sans-serif;
+}
